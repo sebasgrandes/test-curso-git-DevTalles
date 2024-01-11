@@ -1,7 +1,7 @@
-# Objetivos de la repositorio
+# Repositorio de prueba
 
-Este proyecto se encarga de manejar los planes de la liga de la justicia
+Este repositorio es creado de prueba como parte del curso git y github de devtalles - fernando herrera
 
 
 ## Notas
-Pueden hacer lo que quieran...
+Notas adicionales...
