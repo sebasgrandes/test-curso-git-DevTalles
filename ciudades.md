@@ -2,6 +2,5 @@
 
 1. Ciudad Gótica
 2. Metrópolis
-3. Hell's Kitchen
-4. Small Ville
-5. Central City
+3. Small Ville
+4. Central City
